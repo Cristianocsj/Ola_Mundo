@@ -1,2 +1,4 @@
-# Ola_Mundo
- Primeiro repositório versionado
+# Olá, Mundo!!!
+ Primeiro repositório versionado pelo Git e levantado pelo GitHub
+
+ Repositório de teste
